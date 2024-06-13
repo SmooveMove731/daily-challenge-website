@@ -1,0 +1,54 @@
+body {
+  background-color: rgb(243, 233, 255);
+  text-align: center;
+  font-family: "Roboto";
+  color: white;
+}
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 60px;
+  color: rgb(119, 74, 216);
+}
+h2 {
+  font-family: "Roboto", sans-serif;
+}
+li {
+  padding: 6px;
+  border-left: 5px solid transparent;
+}
+img {
+  width: 300px;
+}
+div,
+span {
+  background-color: rgb(254, 238, 177);
+  color: rgb(46, 18, 41);
+  padding: 2px;
+  border-radius: 3px;
+}
+div {
+  background-color: rgb(119, 74, 216);
+  text-align: left;
+  width: 700px;
+  padding: 20px;
+  margin: 30px auto 30px auto;
+  border-radius: 8px;
+  color: white;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  background-color: rgb(249, 201, 39);
+  padding: 10px 20px 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: black;
+}
+.highlight {
+  color: yellow;
+  border-color: rgb(249, 201, 39);
+}
