@@ -48,6 +48,16 @@ a {
   text-decoration: none;
   color: black;
 }
+footer div{
+  background-color: transparent;
+  display: flex;
+  justify-content: space-evenly;
+}
+#full-week-button{
+  background-color: rgb(129, 90, 212);
+  color: white;
+}
+
 .highlight {
   color: yellow;
   border-color: rgb(249, 201, 39);

@@ -6,6 +6,7 @@ h1 {
   font-size: 48px;
   color: rgb(71, 62, 62);
   margin: 0;
+  text-shadow: 2px 3px 4px rgb(156, 156, 156) ;
 }
 
 #description {
@@ -54,7 +55,14 @@ main p {
   padding: 12px;
   color: rgb(71, 29, 22);
 }
-
+footer a{
+  background-color: rgb(134, 21, 134);
+  padding: 12px 24px;
+  border-color: rgb(134, 21, 134);
+}
+footer a:hover{
+  background-color: rgb(145, 44, 145);
+}
 .highlight-goal {
   padding: 12px;
   background-color: rgb(224, 114, 100);
